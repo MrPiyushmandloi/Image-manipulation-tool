@@ -8,11 +8,11 @@ This project is a Python-based Image Manipulation Tool using the `Pillow` librar
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Image-Manipulation-Tool.git
+   git clone https://github.com/MrPiyushmandloi/Image-manipulation-tool.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Image-Manipulation-Tool
+   cd Image-manipulation-tool
    ```
 3. Install the required library:
    ```bash
