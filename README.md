@@ -46,5 +46,7 @@ compress_image("input.jpg", "compressed.jpg", 50)
 - Easy resizing with specified width and height.
 - Image compression to reduce file size.
 
+  ## Sample
+  [!preview]https://raw.githubusercontent.com/MrPiyushmandloi/Image-manipulation-tool/main/IMG_20241225_104631.jpg
 ## License
 This project is licensed under the MIT License.
