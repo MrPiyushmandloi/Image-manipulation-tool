@@ -35,10 +35,11 @@ resize_image("input.jpg", "output.jpg", 200, 200)
 from image_tool import compress_image
 compress_image("input.jpg", "compressed.jpg", 50)
 ```
+### How It Works:
+1. `![Original Image](IMG_20241225_104631.jpg)` will display the original image you uploaded.
+2. `![Blurred Image](New Project 191 [21185C7].png)` will display the blurred image.
 
-## Example Images
-- `example_images/input_image.jpg`
-- `example_images/output_image.jpg`
+
 
 ## Features
 - Supports filters like BLUR, CONTOUR, DETAIL, EMBOSS, SHARPEN.
