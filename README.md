@@ -47,8 +47,9 @@ compress_image("input.jpg", "compressed.jpg", 50)
 - Image compression to reduce file size.
 
   ## Sample
-  [!input](https://raw.githubusercontent.com/MrPiyushmandloi/Image-manipulation-tool/main/IMG_20241225_104631.jpg)
-  [!output](https://raw.githubusercontent.com/MrPiyushmandloi/Image-manipulation-tool/main/Project 191 [21185C7].png)
+[!input](https://raw.githubusercontent.com/MrPiyushmandloi/Image-manipulation-tool/main/IMG_20241225_104631.jpg)
+## 
+[!output](https://raw.githubusercontent.com/MrPiyushmandloi/Image-manipulation-tool/main/output.jpg)
   
 ## License
 This project is licensed under the MIT License.
